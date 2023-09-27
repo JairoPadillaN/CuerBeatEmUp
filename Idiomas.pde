@@ -15,9 +15,12 @@ class Idiomas{
     Idiomas(int i, int n){
         idiact = i;
         nm = n;
-        idiomas = new String[nm][2];
+        idiomas = new String[nm][5];
         cargaIdioma(IDESP);
         cargaIdioma(IDENG);
+        cargaIdioma(IDPOR);
+        cargaIdioma(IDFRE);
+        cargaIdioma(IDCHI);
     }
 
     void cargaIdioma(int i){
