@@ -1,14 +1,21 @@
 //Proyecto CuerbeatEmUp
 //Elaborado por - Jairo Padilla Nava IDGS - 102
 //Fecha de creación - 13-09-23
+<<<<<<< HEAD
 //Fecha de Ultima modificación - 25-09-23
+=======
+//Fecha de Ultima modificacion - 18-09-23
+>>>>>>> 569038357039f381afafbb105f1c4fd306d6ffad
 //Creación de Videojuegos - Ruben Dario Hernández Mendo
 //Descripción: Es un juego donde un personaje se agarra a golpes y patadas contra una banda de maleantes
 
-
 //Componentes
+<<<<<<< HEAD
   
   //Pantallas
+=======
+  //Identificacion de Pantallas
+>>>>>>> 569038357039f381afafbb105f1c4fd306d6ffad
   final int PANTPRIN = 0;
   final int PANTGAME = 1;
   final int PANTLOAD = 2;
